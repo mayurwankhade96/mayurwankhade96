@@ -20,8 +20,8 @@ Here are some ideas to get you started: -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me mayur.wankhade2@gmail.com
 
-| <a><img align="center" src='https://github-readme-stats.vercel.app/api?username=mayurwankhade96&show_icons=true' alt="Mayur's GitHub stats"></a> | <a><img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=mayurwankhade96&layout=compact&hide_border=true' alt="Mayur's Top Langs"></a> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <a><img align="center" src='https://github-readme-stats.vercel.app/api?username=mayurwankhade96&show_icons=true&hide_border=true' alt="Mayur's GitHub stats"></a> | <a><img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=mayurwankhade96&layout=compact&hide_border=true' alt="Mayur's Top Langs"></a> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 <!-- ![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayurwankhade96&show_icons=true) -->
 
