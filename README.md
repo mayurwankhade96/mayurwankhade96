@@ -4,8 +4,7 @@
 
 **About me**
 
-- 👋 Hi, I’m @mayurwankhade96
-
+- 💼 Software Engineer at WeAgile Software Solutions Pvt. Ltd.
 - 👀 I’m interested in Front end
 
 - 🌱 I’m currently learning JavaScript
