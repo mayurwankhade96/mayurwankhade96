@@ -5,7 +5,7 @@
 | <a><img align="center" src='https://github-readme-stats.vercel.app/api?username=mayurwankhade96&show_icons=true&hide_border=true' alt="Mayur's GitHub stats"></a> | <a><img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=mayurwankhade96&layout=compact&hide_border=true&langs_count=6' alt="Mayur's Top Langs"></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-### Connect with me :
+**<h3>Connect with me :**
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mayurwankhade96.github.io/)
 [![Twitter](https://img.shields.io/badge/-twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mayurwankhade96)
