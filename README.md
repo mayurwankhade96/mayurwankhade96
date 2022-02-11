@@ -1,6 +1,6 @@
 **<h1 align="center">Hi, I'm Mayur Wankhade</h1>**
 
-**An average developer who trying to code daily**
+## **An average developer who trying to code daily**
 
 | <a><img align="center" src='https://github-readme-stats.vercel.app/api?username=mayurwankhade96&show_icons=true&hide_border=true' alt="Mayur's GitHub stats"></a> | <a><img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=mayurwankhade96&layout=compact&hide_border=true&langs_count=6' alt="Mayur's Top Langs"></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
