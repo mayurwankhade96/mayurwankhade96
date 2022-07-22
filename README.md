@@ -2,8 +2,8 @@
 
 An average developer who trying to code daily
 
-| <a><img align="center" src='https://github-readme-stats.vercel.app/api?username=mayurwankhade96&show_icons=true&hide_border=true&theme=vue' alt="Mayur's GitHub stats"></a> | <a><img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=mayurwankhade96&layout=compact&hide_border=true&langs_count=6&theme=vue' alt="Mayur's Top Langs"></a> |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <a><img align="center" src='https://github-readme-stats.vercel.app/api?username=mayurwankhade96&show_icons=true&hide_border=true&theme=vue' alt="Mayur's GitHub stats"></a> | <a><img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=mayurwankhade96&layout=compact&hide_border=true&theme=vue' alt="Mayur's Top Langs"></a> |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 **<h3>Connect with me :**
 
