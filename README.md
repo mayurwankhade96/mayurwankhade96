@@ -1,7 +1,5 @@
 # Hello there, I'm Mayur
 
-An average developer who trying to code daily
-
 <a><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mayurwankhade96&layout=compact&hide_border=true&theme=vue' alt="Mayur's Top Langs"></a>
 
 ## Connect with me
