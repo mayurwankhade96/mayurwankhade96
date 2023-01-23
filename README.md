@@ -1,7 +1,5 @@
 # Hello there, I'm Mayur
 
-<a><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mayurwankhade96&layout=compact&hide_border=true&theme=vue' alt="Mayur's Top Langs"></a>
-
 ## Connect with me
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-bl?style=for-the-badge)](https://mayurwankhade96.github.io/)
